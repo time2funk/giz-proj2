@@ -14,7 +14,6 @@ import java.util.Arrays;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(">> Start");
 		
 		MyFileReader fr = new MyFileReader("src/giz_proj2/data.txt");
